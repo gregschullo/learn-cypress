@@ -1,0 +1,23 @@
+{
+  "name": "learn-cypress",
+  "version": "1.0.0",
+  "description": "cypress sandbox",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "test": "test.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gregschullo/learn-cypress.git"
+  },
+  "author": "gregschullo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gregschullo/learn-cypress/issues"
+  },
+  "homepage": "https://github.com/gregschullo/learn-cypress#readme",
+  "devDependencies": {
+    "cypress": "^6.4.0"
+  }
+}
